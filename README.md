@@ -1,10 +1,11 @@
 # Python Warcraft Logs Graph
 
 <p align="center">
-    <img src="image0.png" width="1030"/>
+    <img src="image0.png" width="400"/>
+    <img src="image1.png" width="400"/>
 </p>
 
-This program is to test Pandas, with simple graphing of a .csv file from Warcraft Logs to analyse lava wave damage on Mythic Rashok progression.
+This program is to test Pandas, with simple graphing of a .csv file from Warcraft Logs to analyse lava wave damage from Mythic Rashok progression.
 # Dataset
 
 The dataset, additional metadata, and the .csv file used in this program can be found at:
